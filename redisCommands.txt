@@ -1,0 +1,4 @@
+redis commands
+docker run --name name-redis -d redis
+docker exec -it name-redis -redis sh
+redis-cli
